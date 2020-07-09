@@ -1,0 +1,21 @@
+.learn{
+    color: peru;
+}
+.alice-blue{
+    background-color:aliceblue;
+}
+.carousel-item{
+    padding: 20px 40px;
+
+}
+.any{
+  color:#21B573;
+}
+.get-start-button{
+    background-image: linear-gradient(to bottom,  #21B573 0%, #21B572);
+   color:white;
+   border:none;
+   border-radius: 45px;
+   padding: 7px 40px;
+   cursor:pointer;
+}
